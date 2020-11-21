@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+<<<<<<< HEAD
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -23,5 +24,9 @@
       <module name="gmall-user" options="-parameters" />
       <module name="mb" options="-parameters" />
     </option>
+=======
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+>>>>>>> 849cd9a... 添加一个
   </component>
 </project>
