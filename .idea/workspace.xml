@@ -19,20 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c2e613-0555-4821-944c-2a97d9cf2a76" name="Default Changelist" comment="1121-01">
+    <list default="true" id="78c2e613-0555-4821-944c-2a97d9cf2a76" name="Default Changelist" comment="&#10;添加一个">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/aaaa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/jjj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +91,7 @@
       <updated>1605929857382</updated>
       <workItem from="1605929860647" duration="1287000" />
       <workItem from="1605931170836" duration="2648000" />
+      <workItem from="1605940051230" duration="1783000" />
     </task>
     <task id="LOCAL-00001" summary="1121-01">
       <created>1605930529492</created>
@@ -124,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605935826578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;添加一个">
+      <created>1605940076291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605940076291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,21 +166,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1121-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="1121-01" />
+    <MESSAGE value="&#10;添加一个" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;添加一个" />
   </component>
   <component name="WindowStateProjectService">
     <state x="147" y="65" key="DiffContextDialog" timestamp="1605930949387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605930949387" />
-    <state x="147" y="64" key="MergeDialog" timestamp="1605935884678">
+    <state x="147" y="64" key="MergeDialog" timestamp="1605941557065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="64" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605935884678" />
-    <state x="403" y="172" key="MultipleFileMergeDialog" timestamp="1605935888195">
+    <state x="147" y="64" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605941557065" />
+    <state x="403" y="172" key="MultipleFileMergeDialog" timestamp="1605941559901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="403" y="172" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605935888195" />
+    <state x="403" y="172" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1605941559901" />
     <state x="554" y="113" key="RollbackChangesDialog" timestamp="1605931206200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,10 +190,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605929974157" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605933791358">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605942339579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605933791358" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605942339579" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605937182113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -204,6 +202,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1605937182105" />
+    <state x="635" y="324" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1605941564600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="324" key="git4idea.rebase.GitUnstructuredEditor/0.0.1536.824@0.0.1536.824" timestamp="1605941564600" />
     <state x="578" y="306" key="git4idea.ui.GitResetDialog" timestamp="1605930833018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
